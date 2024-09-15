@@ -1,0 +1,16 @@
+.body {
+  background: rgb(62, 0, 129);
+  background: linear-gradient(0deg, rgb(27, 0, 56) 0%, rgba(0, 0, 0, 1) 100%);
+  color: #fff;
+}
+
+.text-shadow {
+  color: rgb(0, 0, 0); /* A cor interna será branca */
+  -webkit-text-stroke: 0.7px rgb(255, 255, 255); /* Define a largura e a cor da borda */
+  font-weight: bold;
+}
+
+.text-shadow-submit {
+  color: #fff; /* A cor interna será branca */
+  font-weight: bold;
+}

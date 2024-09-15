@@ -1,0 +1,7 @@
+body {
+  background: rgb(62, 0, 129);
+  background: linear-gradient(0deg, rgb(27, 0, 56) 0%, rgba(0, 0, 0, 1) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color: #fff;
+}
